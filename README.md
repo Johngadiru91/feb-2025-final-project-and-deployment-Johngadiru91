@@ -21,3 +21,6 @@ Store data in localStorage.
 Apply JavaScript to trigger animations.
 
 Happy Coding! 💻✨
+
+## Deployment
+The website is deployed using GitHub Pages. You can access it at: https://johngadiru91.github.io/feb-2025-final-project-and-deployment-johngadiru91/
